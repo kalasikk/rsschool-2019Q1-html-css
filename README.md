@@ -1,1 +1,3 @@
-"# rsschool-2019Q1-html-css" 
+
+#Nikolay Rumov
+#HTML CSS Basics: https://www.codecademy.com/users/kalasikk/achievements
